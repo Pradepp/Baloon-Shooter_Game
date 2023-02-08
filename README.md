@@ -1,4 +1,4 @@
-# Baloon-Shooter_Game
+# Balloon-Shooter_Game
 
 Balloon Shooter Game in unity project is developed using the Unity Game Engine. The language used for the development of this project is “C#”. The project file contains Assets such as C# scripts, prefabs, sprite images, animation, and many more. This is a simple action game specially designed for PCs. The gameplay Graphics is good enough and the controls are pretty simple for the users.
 Talking about the gameplay, the main objective of this game is to kill the enemies balloon before they kill yours. The game uses sprite images and prefabs. The game control is easy and very much user-friendly. Use your arrow keys for the movement and spacebar for flying your game character. You can modify this game by adding some health bars and finish line to this game.In order to run the project, you must have installed Unity3d on your PC. 
